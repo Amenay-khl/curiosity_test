@@ -1,0 +1,133 @@
+10
+..~.##.
+.#....#
+.##C...
+##~#...
+~...~..
+ la densité effective d'obstacle est de :
+37.142857 %
+
+ Robot sur une case libre, programme terminé 
+
+
+
+.#~.~~~
+#...##.
+...C~~#
+~.#~###
+~~#~~..
+ la densité effective d'obstacle est de :
+62.857143 %
+
+ Robot sur une case libre, programme terminé 
+
+
+
+#.##..#
+~....~.
+...C#..
+~...~#~
+#..#...
+ la densité effective d'obstacle est de :
+37.142857 %
+
+ Le robot s'est écrasé sur un rocher 
+
+
+
+.##~###
+~~#...#
+..#C~~.
+.~...#~
+....###
+ la densité effective d'obstacle est de :
+54.285717 %
+
+Le robot est sorti en 27 pas sur 50 au maximum 
+
+
+
+..~~..~
+#~#~~#.
+#.#C#..
+....~..
+..##.#.
+ la densité effective d'obstacle est de :
+45.714287 %
+
+ Le robot s'est écrasé sur un rocher 
+
+
+
+.~..#.~
+~~.~.#.
+...C#.~
+.......
+...#..#
+ la densité effective d'obstacle est de :
+31.428572 %
+
+ Le robot s'est écrasé sur un rocher 
+
+
+
+~~#..~.
+.#.~.#~
+#~#C.~~
+~~#~~..
+~.#~##.
+ la densité effective d'obstacle est de :
+65.714287 %
+
+ Le robot est tombé dans l'eau
+
+
+
+.##..#.
+#.#....
+.~.C#~.
+~.#..~.
+.#.~#..
+ la densité effective d'obstacle est de :
+40.000000 %
+
+ Le robot est tombé dans l'eau
+
+
+
+.~.~..#
+.#....~
+...C.#.
+..~...~
+....~#.
+ la densité effective d'obstacle est de :
+28.571430 %
+
+ Le robot s'est écrasé sur un rocher 
+
+
+
+##~~.#.
+..#..~.
+~~~C...
+..#.#~#
+.#.~..~
+ la densité effective d'obstacle est de :
+48.571430 %
+
+ Robot sur une case libre, programme terminé 
+
+
+
+le pourcentage de terrain où le robot est sorti est de  : 10.000000 % ( soit 1.000000 terrains)
+
+
+
+le pourcentage de terrain où le robot est resté bloqué est de : 30.000000 % (soit 3.000000 terrains)
+
+
+
+le pourcentage de terrain où le robot s'est crashé est de : 60.000000 % (soit 6.000000 terrains)
+
+
+
